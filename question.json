@@ -1,0 +1,86 @@
+{
+  "General Knowledge": [
+    {"question":"What is the capital of India?","options":["New Delhi","Mumbai","Kolkata","Chennai"],"answer":"New Delhi","marks":2},
+    {"question":"Who wrote the national anthem of India?","options":["Rabindranath Tagore","Bankim Chandra","Subramania Bharati","B. R. Ambedkar"],"answer":"Rabindranath Tagore","marks":3},
+    {"question":"Which is the largest ocean on Earth?","options":["Atlantic","Indian","Pacific","Arctic"],"answer":"Pacific","marks":2},
+    {"question":"Which country gifted the Statue of Liberty to the USA?","options":["France","England","Spain","Germany"],"answer":"France","marks":3},
+    {"question":"Which city is called the 'City of Light'?","options":["Paris","Rome","London","Berlin"],"answer":"Paris","marks":2},
+    {"question":"Which language has the most native speakers?","options":["English","Mandarin Chinese","Hindi","Spanish"],"answer":"Mandarin Chinese","marks":3},
+    {"question":"Which is the smallest continent by area?","options":["Australia","Europe","Antarctica","South America"],"answer":"Australia","marks":3},
+    {"question":"What is the currency of Japan?","options":["Yen","Dollar","Euro","Rupee"],"answer":"Yen","marks":1},
+    {"question":"Who painted the Mona Lisa?","options":["Leonardo da Vinci","Michelangelo","Raphael","Rembrandt"],"answer":"Leonardo da Vinci","marks":2},
+    {"question":"Which landmark is in Agra, India?","options":["Taj Mahal","Qutub Minar","Red Fort","Gateway of India"],"answer":"Taj Mahal","marks":2},
+    {"question":"Which festival is known as the festival of lights?","options":["Diwali","Holi","Eid","Christmas"],"answer":"Diwali","marks":1},
+    {"question":"Which country is called the Land of the Rising Sun?","options":["Japan","China","Korea","Thailand"],"answer":"Japan","marks":1},
+    {"question":"Which instrument measures atmospheric pressure?","options":["Barometer","Thermometer","Hygrometer","Anemometer"],"answer":"Barometer","marks":3},
+    {"question":"Which bird is a national symbol of India?","options":["Peacock","Eagle","Sparrow","Crow"],"answer":"Peacock","marks":2},
+    {"question":"Which river flows through London?","options":["Thames","Seine","Danube","Rhine"],"answer":"Thames","marks":2},
+    {"question":"What is the tallest mountain on Earth?","options":["Everest","K2","Kangchenjunga","Lhotse"],"answer":"Everest","marks":2},
+    {"question":"Which planet is called the Blue Planet?","options":["Earth","Neptune","Uranus","Saturn"],"answer":"Earth","marks":1},
+    {"question":"Who discovered penicillin?","options":["Alexander Fleming","Louis Pasteur","Robert Koch","Edward Jenner"],"answer":"Alexander Fleming","marks":3},
+    {"question":"Which organ pumps blood in the human body?","options":["Heart","Lungs","Liver","Kidney"],"answer":"Heart","marks":1},
+    {"question":"Which gas is essential for respiration?","options":["Oxygen","Nitrogen","Carbon Dioxide","Helium"],"answer":"Oxygen","marks":1}
+  ],
+
+  "Science": [
+    {"question":"What is H2O commonly known as?","options":["Water","Hydrogen","Oxygen","Salt"],"answer":"Water","marks":1},
+    {"question":"Which planet is nearest to the Sun?","options":["Mercury","Venus","Earth","Mars"],"answer":"Mercury","marks":1},
+    {"question":"What is the chemical symbol for gold?","options":["Au","Ag","Gd","Go"],"answer":"Au","marks":2},
+    {"question":"What is the powerhouse of the cell?","options":["Mitochondria","Nucleus","Ribosome","Golgi apparatus"],"answer":"Mitochondria","marks":2},
+    {"question":"Which gas do plants take in for photosynthesis?","options":["Carbon Dioxide","Oxygen","Nitrogen","Hydrogen"],"answer":"Carbon Dioxide","marks":1},
+    {"question":"What is the boiling point of water at sea level?","options":["100°C","90°C","110°C","80°C"],"answer":"100°C","marks":1},
+    {"question":"Which form of energy is stored in fossil fuels?","options":["Chemical energy","Kinetic energy","Thermal energy","Electric energy"],"answer":"Chemical energy","marks":2},
+    {"question":"Which element has atomic number 1?","options":["Hydrogen","Helium","Oxygen","Carbon"],"answer":"Hydrogen","marks":1},
+    {"question":"Which organ removes waste from the blood?","options":["Kidney","Heart","Liver","Spleen"],"answer":"Kidney","marks":2},
+    {"question":"Which blood cells help fight infections?","options":["White blood cells","Red blood cells","Platelets","Plasma cells"],"answer":"White blood cells","marks":2},
+    {"question":"What is the study of living organisms called?","options":["Biology","Chemistry","Physics","Geology"],"answer":"Biology","marks":1},
+    {"question":"Which planet has prominent rings?","options":["Saturn","Mars","Jupiter","Venus"],"answer":"Saturn","marks":1},
+    {"question":"Which scientist formulated the laws of motion?","options":["Isaac Newton","Albert Einstein","Galileo Galilei","Kepler"],"answer":"Isaac Newton","marks":3},
+    {"question":"What does DNA stand for?","options":["Deoxyribonucleic Acid","Ribonucleic Acid","Dioxyribonucleic Acid","None"],"answer":"Deoxyribonucleic Acid","marks":3},
+    {"question":"Which device measures electric current?","options":["Ammeter","Voltmeter","Ohmmeter","Barometer"],"answer":"Ammeter","marks":2},
+    {"question":"Which force keeps planets in orbit?","options":["Gravity","Magnetism","Friction","Electrostatic force"],"answer":"Gravity","marks":2},
+    {"question":"Which gas causes the greenhouse effect?","options":["Carbon Dioxide","Oxygen","Nitrogen","Helium"],"answer":"Carbon Dioxide","marks":2},
+    {"question":"Which part of the eye controls the amount of light entering?","options":["Iris","Lens","Retina","Cornea"],"answer":"Iris","marks":2},
+    {"question":"What is the pH of neutral water?","options":["7","0","14","1"],"answer":"7","marks":2},
+    {"question":"What particle has a negative charge?","options":["Electron","Proton","Neutron","Photon"],"answer":"Electron","marks":2}
+  ],
+
+  "Technology": [
+    {"question":"Who founded Microsoft?","options":["Bill Gates","Steve Jobs","Elon Musk","Larry Page"],"answer":"Bill Gates","marks":1},
+    {"question":"Which company made the iPhone?","options":["Apple","Samsung","Nokia","HTC"],"answer":"Apple","marks":1},
+    {"question":"What does HTTP stand for?","options":["HyperText Transfer Protocol","HyperText Transfer Procedure","Hyper Transfer Text Protocol","HighText Transfer Protocol"],"answer":"HyperText Transfer Protocol","marks":3},
+    {"question":"What does CPU stand for?","options":["Central Processing Unit","Central Power Unit","Computer Processing Unit","Control Processing Unit"],"answer":"Central Processing Unit","marks":1},
+    {"question":"What is the main language used for web pages?","options":["HTML","Python","C++","Java"],"answer":"HTML","marks":1},
+    {"question":"Which company created Android?","options":["Google","Apple","Microsoft","IBM"],"answer":"Google","marks":1},
+    {"question":"What is Wi-Fi used for?","options":["Wireless networking","Wired networking","Bluetooth","Power supply"],"answer":"Wireless networking","marks":1},
+    {"question":"What does GPU accelerate?","options":["Graphics processing","Network traffic","Disk IO","Memory"],"answer":"Graphics processing","marks":2},
+    {"question":"Which is an open source OS?","options":["Linux","Windows","iOS","macOS"],"answer":"Linux","marks":2},
+    {"question":"What is a URL?","options":["Uniform Resource Locator","Universal Resource Link","User Resource Locator","Uniform Reference Link"],"answer":"Uniform Resource Locator","marks":2}
+  ],
+
+  "Computer Science": [
+    {"question":"What does API stand for?","options":["Application Programming Interface","Application Process Integration","Applied Programming Internet","Automated Program Interface"],"answer":"Application Programming Interface","marks":2},
+    {"question":"Which data structure uses LIFO?","options":["Stack","Queue","Array","Linked List"],"answer":"Stack","marks":2},
+    {"question":"Which algorithmic complexity is better for large N?","options":["O(log n)","O(n^2)","O(n)","O(n^2 log n)"],"answer":"O(log n)","marks":3},
+    {"question":"Which language is commonly used for machine learning?","options":["Python","C","Fortran","COBOL"],"answer":"Python","marks":2},
+    {"question":"What does SQL stand for?","options":["Structured Query Language","Simple Query Language","Standard Query List","Sequential Query Language"],"answer":"Structured Query Language","marks":2},
+    {"question":"Which is a NoSQL database?","options":["MongoDB","MySQL","PostgreSQL","SQLite"],"answer":"MongoDB","marks":2},
+    {"question":"What does HTML stand for?","options":["HyperText Markup Language","HighText Markup Language","Hyperlink Text Markup Language","HyperText Managing Language"],"answer":"HyperText Markup Language","marks":1},
+    {"question":"Which sorting is good for nearly sorted data?","options":["Insertion sort","Bubble sort","Selection sort","Merge sort"],"answer":"Insertion sort","marks":3},
+    {"question":"Binary of decimal 5 is?","options":["101","111","010","100"],"answer":"101","marks":1},
+    {"question":"Which is a frontend library?","options":["React","Django","Flask","Laravel"],"answer":"React","marks":1}
+  ],
+
+  "Mathematics": [
+    {"question":"What is 12 × 8?","options":["96","88","108","84"],"answer":"96","marks":1},
+    {"question":"What is the square root of 144?","options":["12","10","14","11"],"answer":"12","marks":1},
+    {"question":"Value of pi up to 2 decimal places?","options":["3.14","3.13","3.15","3.12"],"answer":"3.14","marks":1},
+    {"question":"What is 25% of 200?","options":["50","25","100","75"],"answer":"50","marks":1},
+    {"question":"Solve: 2 + 3 × 4","options":["14","20","24","10"],"answer":"14","marks":2},
+    {"question":"If f(x)=x^2, f'(x) is?","options":["2x","x","x^2","1"],"answer":"2x","marks":3},
+    {"question":"What is 2^5?","options":["32","16","64","8"],"answer":"32","marks":1},
+    {"question":"What is the median of [1,3,3,6,7,8,9]?","options":["6","3","7","5"],"answer":"6","marks":2},
+    {"question":"What is 7 × 7?","options":["49","42","56","36"],"answer":"49","marks":1},
+    {"question":"What is 0 factorial (0!)?","options":["1","0","Undefined","Infinity"],"answer":"1","marks":2}
+  ]
+}

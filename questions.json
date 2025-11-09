@@ -1,0 +1,141 @@
+{
+  "General Knowledge": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "answer": 1
+    },
+    {
+      "question": "Who wrote the Indian National Anthem?",
+      "options": ["Rabindranath Tagore", "Mahatma Gandhi", "Bankim Chandra Chatterjee", "Jawaharlal Nehru"],
+      "answer": 1
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": 2
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": 4
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Dr. Rajendra Prasad", "Sardar Patel", "Jawaharlal Nehru", "Indira Gandhi"],
+      "answer": 1
+    }
+  ],
+
+  "Science": [
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["Oxygen", "Hydrogen", "Water", "Helium"],
+      "answer": 3
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 2
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Gd", "Ag", "Au", "Go"],
+      "answer": 3
+    },
+    {
+      "question": "How many bones are there in the adult human body?",
+      "options": ["206", "205", "208", "210"],
+      "answer": 1
+    },
+    {
+      "question": "Which organ purifies blood in the human body?",
+      "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+      "answer": 3
+    }
+  ],
+
+  "Technology": [
+    {
+      "question": "What does 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "High Transfer Text Process", "Hyper Transfer Text Protocol", "HyperText Test Program"],
+      "answer": 1
+    },
+    {
+      "question": "Who is the founder of Microsoft?",
+      "options": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Elon Musk"],
+      "answer": 3
+    },
+    {
+      "question": "What is the full form of AI?",
+      "options": ["Artificial Intelligence", "Auto Information", "Advanced Integration", "Artificial Input"],
+      "answer": 1
+    },
+    {
+      "question": "Which company developed the Android OS?",
+      "options": ["Apple", "Google", "Samsung", "Microsoft"],
+      "answer": 2
+    },
+    {
+      "question": "What does 'CPU' stand for?",
+      "options": ["Central Process Unit", "Central Processing Unit", "Control Process Unit", "Central Processor Utility"],
+      "answer": 2
+    }
+  ],
+
+  "Computer Science": [
+    {
+      "question": "What does 'HTML' stand for?",
+      "options": ["HyperText Markup Language", "HighText Machine Language", "HyperTransfer Markup Language", "HyperTool Multi Language"],
+      "answer": 1
+    },
+    {
+      "question": "Which data structure works on FIFO principle?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": 2
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+      "answer": 3
+    },
+    {
+      "question": "Which of these is not an operating system?",
+      "options": ["Windows", "Linux", "Python", "MacOS"],
+      "answer": 3
+    },
+    {
+      "question": "Which programming language is known as the ‘Mother of All Languages’?",
+      "options": ["C", "Python", "Java", "Assembly"],
+      "answer": 1
+    }
+  ],
+
+  "Mathematics": [
+    {
+      "question": "What is the value of π (pi) up to two decimal places?",
+      "options": ["3.12", "3.14", "3.15", "3.13"],
+      "answer": 2
+    },
+    {
+      "question": "What is 12 × 8?",
+      "options": ["96", "88", "108", "86"],
+      "answer": 1
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": 3
+    },
+    {
+      "question": "If a triangle has sides of 3, 4, and 5, what type of triangle is it?",
+      "options": ["Equilateral", "Isosceles", "Scalene", "Right-Angled"],
+      "answer": 4
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["20", "25", "30", "35"],
+      "answer": 3
+    }
+  ]
+}
